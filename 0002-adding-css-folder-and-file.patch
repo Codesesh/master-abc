@@ -1,0 +1,23 @@
+From 78a30effcb100b5d1cb36ae1ed8ca56f9486124a Mon Sep 17 00:00:00 2001
+From: Kieran Pheloung <kpmacbook@Kierans-MacBook-Pro.local>
+Date: Tue, 21 Jul 2015 22:53:10 +1200
+Subject: [PATCH 2/2] adding css folder and file
+
+---
+ css/style.css | 3 +++
+ 1 file changed, 3 insertions(+)
+ create mode 100644 css/style.css
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..27f8179
+--- /dev/null
++++ b/css/style.css
+@@ -0,0 +1,3 @@
++body {
++	font-size: 20px;
++}
+\ No newline at end of file
+-- 
+2.3.2 (Apple Git-55)
+
