@@ -1,0 +1,3 @@
+<?php
+
+$contactPage = 'Hello';
